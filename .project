@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Homework</name>
+=======
+	<name>homework3</name>
+>>>>>>> 3d68bd1ca99c503b1124459b7484f8d8598cb754
 	<comment>Create By HBuilder</comment>
 	<projects>
 	</projects>
@@ -16,6 +20,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1569206400142</id>
 			<name></name>
 			<type>10</type>
@@ -44,6 +49,9 @@
 		</filter>
 		<filter>
 			<id>1569207001276</id>
+=======
+			<id>1569393394256</id>
+>>>>>>> 3d68bd1ca99c503b1124459b7484f8d8598cb754
 			<name></name>
 			<type>10</type>
 			<matcher>
